@@ -65,7 +65,7 @@ Follow these steps to deploy the **FraudGuard Pro** environment on your local ma
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/Hrishikesh544/FraudGuard-Pro.git](https://github.com/Hrishikesh544/FraudGuard-Pro.git)
+git clone https://github.com/Hrishikesh544/FraudGuard-Pro.git
 cd FraudGuard-Pro
 ```
 ### 2. Install Dependencies
@@ -79,4 +79,8 @@ python train_model.py
 ### 4. Launch the Dashboard
 ```bash
 streamlit run app.py
+```
+### 5. Kaggle dataset link
+```bash
+https://www.kaggle.com/datasets/ealaxi/paysim1
 ```
